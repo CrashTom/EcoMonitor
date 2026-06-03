@@ -8,7 +8,7 @@ Tommaso Liuzza \| Jacopo Cingia \| Nicola Bonardi
 
 EcoMonitor è un sistema client-server sviluppato in Python per
 raccogliere, condividere e visualizzare misure ambientali rilevate dagli
-studenti tramite l\'applicazione phyphox. Il progetto è stato realizzato
+studenti tramite l\'applicazione terminale. Il progetto è stato realizzato
 nell\'ambito dell\'Unità di Apprendimento sulla sostenibilità ambientale
 della classe 4EI.
 
