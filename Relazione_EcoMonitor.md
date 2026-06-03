@@ -110,9 +110,6 @@ dashboard.py e si apre automaticamente nel browser sulla porta locale
 
 -   **pandas:** manipolazione e aggregazione dei dati nella dashboard.
 
--   **phyphox:** app per la raccolta delle misure ambientali con il
-    sensore di luce.
-
 6\. Conclusioni
 
 Il progetto EcoMonitor ha permesso di mettere in pratica i concetti di
